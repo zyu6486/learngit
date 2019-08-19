@@ -5,4 +5,4 @@ git is free software distributed under the GPL.
 git has mutable index called stage.
 tracks changbe of files.
 Creating a new brach is quick and simple
-测试 merge
+测试 merge 222
