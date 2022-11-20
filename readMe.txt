@@ -6,3 +6,4 @@ git has mutable index called stage.
 tracks changbe of files.
 Creating a new brach is quick and simple
 测试 merge 222
+放松放松地方粉色的发
